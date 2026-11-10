@@ -101,6 +101,9 @@ Requires Python 3.9+ and Java 11+ (for Spark).
 
 It creates demo Delta tables, runs every check, and saves results to `dq.dqresults` and failed rows to `dq_badrecords`.
 
+![Data quality results on Databricks] <img width="1332" height="520" alt="image" src="https://github.com/user-attachments/assets/6f242541-ed2d-413d-af26-5c0180db9fce" />
+
+
 ## Run it on Azure Databricks
 
 1. Run `sql/dq_metadata.sql` in your Azure SQL Database to create the rule tables and the `dqr.Vw_Rules` view.
