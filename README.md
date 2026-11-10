@@ -101,7 +101,8 @@ Requires Python 3.9+ and Java 11+ (for Spark).
 
 It creates demo Delta tables, runs every check, and saves results to `dq.dqresults` and failed rows to `dq_badrecords`.
 
-![Data quality results on Databricks] <img width="1332" height="520" alt="Data quality results on Databricks" src="https://github.com/user-attachments/assets/6f242541-ed2d-413d-af26-5c0180db9fce" />
+
+<img width="1332" height="520" alt="Data quality results on Databricks" src="https://github.com/user-attachments/assets/6f242541-ed2d-413d-af26-5c0180db9fce" />
 
 
 
